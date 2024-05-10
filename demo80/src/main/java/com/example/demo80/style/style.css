@@ -1,0 +1,45 @@
+/* Define styles for question label */
+.question-label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+}
+
+/* Define styles for options */
+.option {
+    -fx-font-size: 14px;
+}
+
+/* Define styles for submit button */
+.submit-button {
+    -fx-background-color: #008C45;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+}
+
+/* Define styles for feedback label */
+.feedback-label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #FF0000;
+}
+
+/* Define styles for score label */
+.score-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #000000;
+}
+
+/* Define styles for lifeline buttons */
+.lifeline-button {
+    -fx-background-color: #008C45;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+}
+
+/* Define styles for timer label */
+.timer-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #000000;
+}
